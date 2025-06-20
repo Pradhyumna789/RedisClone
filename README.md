@@ -2,7 +2,7 @@
 
 ## Project Abstract
 
-### This project is a from-scratch implementation of Redis, the high-performance in-memory data structure store. Built as part of the Codecrafters Redis challenge, it delves into how Redis handles data storage, persistence, replication, and real-time streaming under the hood.
+### This project is a from-scratch implementation of Redis, the high-performance in-memory data structure store. It delves into how Redis handles data storage, persistence, replication, and real-time streaming under the hood.
 
 ### Throughout the project, the server evolves from responding to simple commands like PING to supporting core Redis functionality including key-value operations, replication, RDB parsing, streaming with XREAD, and even transactions.
 
